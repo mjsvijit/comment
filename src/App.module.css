@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+    align-items: center;
+  }
+  
+  #img1{
+    height:150px;
+    width:200px;
+  }
+  .maindiv{
+   
+   
+    
+    margin-left: 35.32%;
+    margin-top: -4px;
+      width:200px;
+      height:60px;
+      background-color: blue;
+
+  }
+  
